@@ -1,0 +1,2 @@
+Sentiment dataset link : https://storage.googleapis.com/laurencemoroney-blog.appspot.com/training_cleaned.csv
+Glove word vectors     : https://storage.googleapis.com/laurencemoroney-blog.appspot.com/glove.6B.100d.txt
